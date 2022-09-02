@@ -14,11 +14,11 @@ Happy Hacking!
 
 # USAGE
 download zip
-sign up for a web hosting at any web hosting provider (https://000webhost.com , https://infinityfree.com , https://hostinger.com etc)
-upload the zip in the file manager in your your cpanel
-extract folder
-delete index.html and README.md
-Open your website URL
+sign up for a web hosting at any web hosting provider (https://000webhost.com , https://infinityfree.com , https://hostinger.com etc).
+upload the zip in the file manager in your your cpanel.
+extract folder.
+delete index.html and README.md.
+Open your website URL.
 
 # CONGRATULATIONS, YOU'RE DONE SETTING THIS TOOL
 # Use it wisely !
